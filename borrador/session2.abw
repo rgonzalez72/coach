@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="123" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.1" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-GB; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Wed Mar 16 18:29:01 2016
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.date">Wed Mar 16 18:26:09 2016
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="3" edit-time="404" last-saved="1458152941" uid="fabaa68c-eba3-11e5-8c07-90fd5b2e0c56">
+<version id="1" started="1458152769" uid="8de1c012-eba4-11e5-8c07-90fd5b2e0c56" auto="0" top-xid="120"/>
+<version id="3" started="1458152889" uid="f447b15e-eba4-11e5-969e-a7c01e74da12" auto="0" top-xid="123"/>
+</history>
+<styles>
+<s type="P" name="Body Text" basedon="_Normal" props="text-align:center; line-height:1.000000; margin-bottom:0.000000pt; font-family:Cooper Black; font-size:14.000000pt"/>
+<s type="P" name="Body Text 2" basedon="_Normal" props="line-height:1.000000; margin-bottom:0.000000pt; font-family:Times New Roman; font-size:10.000000pt"/>
+<s type="C" name="Body Text 2 Char" basedon="Default Paragraph Font" props="font-family:Times New Roman; font-size:10.000000pt"/>
+<s type="C" name="Body Text Char" basedon="Default Paragraph Font" props="font-family:Cooper Black; font-size:14.000000pt"/>
+<s type="C" name="Default Paragraph Font" basedon="Normal"/>
+<s type="C" name="Heading 3 Char" basedon="Default Paragraph Font" props="font-family:Times New Roman; font-weight:bold"/>
+<s type="C" name="Heading 5 Char" basedon="Default Paragraph Font" props="font-weight:bold; font-family:Arial; font-size:12.000000pt"/>
+<s type="C" name="Heading 7 Char" basedon="Default Paragraph Font" props="font-size:16.000000pt; font-weight:bold; font-family:Arial; text-decoration:underline"/>
+<s type="P" name="No List" basedon="Normal"/>
+<s type="P" name="Normal" basedon="Normal" followedby="Current Settings" props="font-weight:normal; font-family:Times New Roman; margin-top:0pt; font-style:normal; margin-left:0pt; text-align:left; lang:ar-SA; text-decoration:none; text-indent:0in; margin-bottom:10.000000pt; widows:2; margin-right:0pt; text-position:normal; font-variant:normal; color:000000; line-height:1.150000; bgcolor:transparent; font-size:11.000000pt; font-stretch:normal"/>
+<s type="P" name="Normal Table" basedon="Normal"/>
+<s type="P" name="SP Data Entry" basedon="_Normal" props="line-height:1.000000; margin-bottom:0.000000pt; font-family:Comic Sans MS; font-size:10.000000pt"/>
+<s type="P" name="_Normal" basedon="Normal"/>
+<s type="P" name="caption" basedon="_Normal" followedby="_Normal" props="text-align:justify; font-size:12.000000pt; font-weight:bold; margin-bottom:0.000000pt; font-family:Arial; line-height:1.000000"/>
+<s type="P" name="heading 3" basedon="_Normal" followedby="_Normal" props="line-height:1.000000; margin-bottom:0.000000pt; font-family:Times New Roman; font-weight:bold"/>
+<s type="P" name="heading 5" basedon="_Normal" followedby="_Normal" props="text-align:justify; font-size:12.000000pt; font-weight:bold; margin-bottom:0.000000pt; font-family:Arial; line-height:1.000000"/>
+<s type="P" name="heading 7" basedon="_Normal" followedby="_Normal" props="text-decoration:underline; line-height:1.000000; margin-bottom:0.000000pt; font-family:Arial; font-weight:bold; font-size:16.000000pt"/>
+</styles>
+<pagesize pagetype="Custom" orientation="portrait" width="209.902778" height="297.021250" units="mm" page-scale="1.000000"/>
+<section xid="6" props="page-margin-right:0.500000in; page-margin-bottom:0.500000in; page-margin-left:0.500000in; columns:1; page-margin-top:0.500000in; column-line:off">
+<table xid="7" props="bot-style:1; table-row-heights:12.000000pt/12.000000pt/; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; top-style:1; left-thickness:0.500000pt; right-style:1; right-thickness:0.500000pt; top-thickness:0.500000pt; left-style:1; bot-thickness:0.500000pt">
+<cell xid="8" props="bot-style:1; bot-thickness:0.500000pt; right-attach:5; left-thickness:0.500000pt; background-color:CCCCCC; right-thickness:0.500000pt; left-attach:0; top-style:1; bot-attach:1; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-attach:0">
+<p xid="9" props="text-align:justify; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:CCCCCC"><c props="font-weight:bold; font-family:DIN; font-size:14.000000pt">Coaching Session Plan</c><c props="font-weight:bold; font-family:DIN; font-size:14.000000pt"></c></p>
+<p xid="10" props="text-align:center; line-height:1.000000; margin-bottom:0.000000pt; bgcolor:CCCCCC"><c></c><c></c></p>
+</cell>
+<cell xid="11" props="bot-style:1; bot-thickness:0.500000pt; right-attach:2; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:0; top-style:1; bot-attach:2; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-attach:1">
+<p xid="12" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Date: 14/3/2016</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="13" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Time:</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c><c props="font-size:10.000000pt; font-weight:bold; font-family:DIN; color:0070C0"> 6:30pm</c></p>
+</cell>
+<cell xid="14" props="bot-style:1; bot-thickness:0.500000pt; right-attach:5; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:2; top-style:1; bot-attach:2; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-attach:1">
+<p xid="15" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Stage of Athlete Development:Event gr</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="16" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+</cell>
+<cell xid="17" props="bot-style:1; bot-thickness:0.500000pt; right-attach:2; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:0; top-style:1; bot-attach:4; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-attach:2">
+<p xid="18" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Venue: </c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c><c props="font-family:Times; text-decoration:none; color:000000; font-size:10pt; text-position:normal; font-weight:bold; font-style:normal; lang:en-GB">Football pitch, roads and hills in the Sports Centre</c></p>
+<p xid="19" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+</cell>
+<cell xid="20" props="bot-style:1; bot-thickness:0.500000pt; right-attach:5; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:2; top-style:1; bot-attach:3; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-attach:2">
+<p xid="21" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Age group of Athletes: 23-51</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+</cell>
+<cell xid="22" props="table-row-heights:12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:5; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:2; top-attach:3; bot-attach:4; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="23" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Size of group: 7</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+</cell>
+<cell xid="24" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:5; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:0; top-attach:4; bot-attach:5; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="25" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Equipment:  </c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c><c props="font-family:Times; text-decoration:none; color:000000; font-size:10pt; text-position:normal; font-weight:bold; font-style:normal; lang:en-GB">Cones, measure tape</c></p>
+<p xid="26" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+</cell>
+<cell xid="27" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:2; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:0; top-attach:5; bot-attach:6; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="28" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Session Goals for the Athletes (WHAT):</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="29" props="font-family:Times; text-decoration:none; color:000000; font-size:12pt; line-height:1.000000; text-position:normal; font-weight:normal; margin-bottom:0.000000pt; font-style:normal"><c props="font-family:Times; text-decoration:none; color:ff0000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">By the end of the session the athlete will be able more aware of the importance of coordination in running. </c><c props="font-family:Times; text-decoration:none; color:ff0000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB"></c></p>
+<p xid="1" props="font-family:Times; margin-top:0.0000in; font-style:normal; margin-left:0.0000in; dom-dir:ltr; color:ff0000; text-indent:0.0000in; text-position:normal; line-height:1.000000; lang:en-GB; margin-right:0.0000in; font-size:10pt; text-decoration:none; margin-bottom:0.0000in; font-weight:normal; text-align:left"><c props="font-family:Times; text-decoration:none; color:ff0000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">By the end of the session the athlete will have developed their aerobic capability.</c><c props="font-family:Times; text-decoration:none; color:ff0000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB"></c></p>
+</cell>
+<cell xid="30" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:5; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:2; top-attach:5; bot-attach:6; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="31" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Personal Coaching Goals (HOW):</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="32" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-family:Times; text-decoration:none; color:ff0000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">By the end of the session I will have measured the coordination and agility skills of my athletes. I'll have assessed their running technique up and down hill. </c><c props="font-family:Times; text-decoration:none; color:ff0000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB"></c></p>
+<p xid="33" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="34" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"> </c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+</cell>
+<cell xid="35" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:5; left-thickness:0.500000pt; background-color:CCCCCC; right-thickness:0.500000pt; left-attach:0; top-attach:6; bot-attach:7; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="36" props="bgcolor:CCCCCC; line-height:1.000000; margin-bottom:0.000000pt"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Practical Session </c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="37" props="bgcolor:CCCCCC; line-height:1.000000; margin-bottom:0.000000pt"><c></c><c></c></p>
+</cell>
+<cell xid="38" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:0; top-attach:7; bot-attach:8; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="39" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Session Component</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+</cell>
+<cell xid="40" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:1; top-attach:7; bot-attach:8; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="41" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Unit Detail</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+</cell>
+<cell xid="42" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:3; top-attach:7; bot-attach:8; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="43" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Coaching Points</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+</cell>
+<cell xid="44" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:5; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:4; top-attach:7; bot-attach:8; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="45" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Organisation/</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="46" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Safety Key points</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+</cell>
+<cell xid="47" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:0; top-attach:8; bot-attach:9; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="48" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Warm Up</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="49" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-family:DIN; font-size:10.000000pt">[ 10 minutes]</c><c props="font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="50" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="51" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="52" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="53" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="54" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+</cell>
+<cell xid="55" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:1; top-attach:8; bot-attach:9; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="56" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-family:Times; text-decoration:none; color:000000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">5 mins jog to the sports center. Circle ankles, knees, hip, arms and neck in both directions. And also reverse arm circle. 2x10 lunges. 4x40m accelerations</c><c props="font-family:Times; text-decoration:none; color:000000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB"></c></p>
+</cell>
+<cell xid="57" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:3; top-attach:8; bot-attach:9; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="58" props="font-family:Times; text-decoration:none; color:000000; font-size:12pt; line-height:1.000000; text-position:normal; font-weight:normal; margin-bottom:0.000000pt; font-style:normal"><c props="font-family:Times; text-decoration:none; color:000000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">Observe coordination in reverse arm circle.</c><c props="font-family:Times; text-decoration:none; color:000000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB"></c></p>
+<p xid="2" props="font-family:Times; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:en-GB; text-align:left; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; line-height:1.000000; margin-bottom:0.0000in; font-size:10pt; margin-right:0.0000in; text-decoration:none"><c props="font-family:Times; font-size:10pt; lang:en-GB; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Observe position in lunges and accelerations</c><c props="font-family:Times; font-size:10pt; lang:en-GB; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+</cell>
+<cell xid="59" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:5; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:4; top-attach:8; bot-attach:13; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="60" props="font-family:Times; text-decoration:none; color:000000; font-size:12pt; line-height:1.000000; text-position:normal; font-weight:normal; margin-bottom:0.000000pt; font-style:normal"><c props="font-family:Times; text-decoration:none; color:000000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">Be aware of other people on the roads.</c><c props="font-family:Times; text-decoration:none; color:000000; font-size:10pt; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB"></c></p>
+<p xid="3" props="font-family:Times; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:en-GB; text-align:left; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; line-height:1.000000; margin-bottom:0.0000in; font-size:10pt; margin-right:0.0000in; text-decoration:none"><c props="font-family:Times; font-size:10pt; lang:en-GB; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Roots and speed bumps in the roads.</c><c props="font-family:Times; font-size:10pt; lang:en-GB; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p xid="4" props="font-family:Times; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:en-GB; text-align:left; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; line-height:1.000000; margin-bottom:0.0000in; font-size:10pt; margin-right:0.0000in; text-decoration:none"><c props="font-family:Times; font-size:10pt; lang:en-GB; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Cars drive trough the Sports Centre road (very rare but be aware)</c><c props="font-family:Times; font-size:10pt; lang:en-GB; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+<p xid="5" props="font-family:Times; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:en-GB; text-align:left; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; line-height:1.000000; margin-bottom:0.0000in; font-size:10pt; margin-right:0.0000in; text-decoration:none"><c props="font-family:Times; font-size:10pt; lang:en-GB; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Check the football pith for potholes.</c><c props="font-family:Times; font-size:10pt; lang:en-GB; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+</cell>
+<cell xid="61" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:0; top-attach:9; bot-attach:10; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="62" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Main Session </c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="63" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Unit A</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="64" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-family:DIN; font-size:10.000000pt">[ 5 minutes]</c><c props="font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="65" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="66" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="67" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="68" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="69" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="70" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+</cell>
+<cell xid="71" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:1; top-attach:9; bot-attach:10; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="72" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c props="font-family:Times; font-size:10pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">Illinois agility test. Demonstrate and measure all the athletes.</c></p>
+</cell>
+<cell xid="73" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:3; top-attach:9; bot-attach:10; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="74" props="font-family:Times; font-size:12pt; color:000000; text-decoration:none; line-height:1.000000; text-position:normal; font-weight:normal; margin-bottom:0.000000pt; font-style:normal">Time<c props="font-family:Times; font-size:10pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB"> the athletes. </c></p>
+<p xid="121" props="font-family:Times; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:en-GB; margin-bottom:0.0000in; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; margin-right:0.0000in; text-decoration:none; text-align:left; line-height:1.000000; font-size:10pt"><c props="font-family:Times; font-size:10pt; lang:en-GB; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Observe their position while going around cones.</c></p>
+<p xid="122" props="font-family:Nimbus Roman No9 L; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:en-GB; margin-bottom:0.0000in; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; margin-right:0.0000in; text-decoration:none; text-align:left; line-height:1.000000; font-size:12pt"><c props="font-family:Times; font-size:10pt; lang:en-GB; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"></c></p>
+</cell>
+<cell xid="75" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:0; top-attach:10; bot-attach:11; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="76" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Main Session </c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="77" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Unit B</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="78" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-family:DIN; font-size:10.000000pt">[ 35  minutes]</c><c props="font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="79" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="80" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="81" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="82" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="83" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="84" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+</cell>
+<cell xid="85" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:1; top-attach:10; bot-attach:11; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="86" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c props="font-family:Times; font-size:10pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">Continuous running for 35 minutes including the three hills. Keep an steady pace in the flats with surges up and down hill.</c></p>
+</cell>
+<cell xid="87" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:3; top-attach:10; bot-attach:11; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="88" props="font-family:Times; font-size:12pt; color:000000; text-decoration:none; line-height:1.000000; text-position:normal; font-weight:normal; margin-bottom:0.000000pt; font-style:normal"><c></c><c props="font-family:Times; font-size:10pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">Observe the position going up and down hill.</c></p>
+<p xid="123" props="font-family:Times; dom-dir:ltr; font-style:normal; margin-left:0.0000in; lang:en-GB; margin-bottom:0.0000in; text-indent:0.0000in; text-position:normal; margin-top:0.0000in; font-weight:normal; margin-right:0.0000in; text-decoration:none; text-align:left; line-height:1.000000; font-size:10pt"><c props="font-family:Times; font-size:10pt; lang:en-GB; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Move between hills to observe them running at different steepness. </c></p>
+</cell>
+<cell xid="89" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:0; top-attach:11; bot-attach:12; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="90" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Main Session </c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="91" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Unit C</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="92" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-family:DIN; font-size:10.000000pt">[  minutes]</c><c props="font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="93" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="94" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="95" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="96" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="97" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="98" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+</cell>
+<cell xid="99" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:1; top-attach:11; bot-attach:12; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="100" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+</cell>
+<cell xid="101" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:3; top-attach:11; bot-attach:12; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="102" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+</cell>
+<cell xid="103" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:1; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:0; top-attach:12; bot-attach:13; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="104" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt">Cool Down</c><c props="font-weight:bold; font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="105" props="margin-bottom:0.000000pt; line-height:1.000000"><c props="font-family:DIN; font-size:10.000000pt">[ 10 minutes]</c><c props="font-family:DIN; font-size:10.000000pt"></c></p>
+<p xid="106" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="107" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="108" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="109" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="110" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+<p xid="111" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c></c></p>
+</cell>
+<cell xid="112" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:3; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:1; top-attach:12; bot-attach:13; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="113" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c props="font-family:Times; font-size:10pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">5 mins of easy jog + standard stretch. Calfs, Soleus, Hamstrings, Quads, Glutes, Abductors. </c></p>
+</cell>
+<cell xid="114" props="table-row-heights:12.000000pt/12.000000pt/; bot-style:1; bot-thickness:0.500000pt; right-attach:4; left-thickness:0.500000pt; right-thickness:0.500000pt; left-attach:3; top-attach:12; bot-attach:13; table-column-props:130.500000pt/114.000000pt/16.500000pt/126.000000pt/117.000000pt/; left-style:1; top-thickness:0.500000pt; right-style:1; top-style:1">
+<p xid="115" props="margin-bottom:0.000000pt; line-height:1.000000"><c></c><c props="font-family:Times; font-size:10pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-GB">Talk to the athletes about the tests conducted and ask then to auto-evaluate. </c></p>
+</cell>
+</table>
+<p xid="116"><c></c><c></c></p>
+<p xid="117"><c></c><c></c></p>
+<p xid="118"><bookmark type="start" name="_GoBack" xid="119"/><bookmark xml:id="" type="end" name="_GoBack" xid="120"/></p>
+</section>
+</abiword>
