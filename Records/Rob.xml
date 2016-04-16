@@ -103,16 +103,12 @@ Mile 13 - 9:06</session>
 <emphasis>Strength, Speed</emphasis>
 <esystem>Lactic/Alactic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session>2x4x80m
-hills [2']+
-4x120m
-accelerati
-on</session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>6</tired>
+<motivation>6</motivation>
+<session>2x4x80m hills [2']+ 4x120m acceleration. I did this as part of Lordshill RR Monday night training. The training plan was in my phone running app, although this didn't match the distance which the hill training we did at Southampton Sports centre - running up the hill to the 7th (I think it was) lampost, so I turned off the phone, and didn't record any times, as the voice instructions on my running app were distracting. After training legs felt quite stiff. </session>
+<distance>12k</distance>
+<atired>6</atired>
 </record>
 <record>
 <date>30-March-2016</date>
@@ -120,12 +116,12 @@ on</session>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic/Lactic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
+<done>Yes</done>
+<tired>6</tired>
+<motivation>7</motivation>
 <session></session>
-<distance></distance>
-<atired></atired>
+<distance>17.04</distance>
+<atired>5</atired>
 </record>
 <record>
 <date>31-March-2016</date>
@@ -133,7 +129,7 @@ on</session>
 <emphasis>Strength</emphasis>
 <esystem>Alactic</esystem>
 <load>Medium</load>
-<done></done>
+<done>No</done>
 <tired></tired>
 <motivation></motivation>
 <session>1x circuit @gym</session>
@@ -141,121 +137,237 @@ on</session>
 <atired></atired>
 </record>
 <record>
-<date></date>
-<title></title>
+<date>2-April-2016</date>
+<title>Parkrun</title>
 <emphasis></emphasis>
 <esystem></esystem>
-<load></load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<load>High</load>
+<done>Yes</done>
+<tired>5</tired>
+<motivation>7</motivation>
+<session>Did park run, although had a few beers Friday night and didn't get to sleep till late.
+
+Run / jog there, about 1.5 miles (estimated 8:30 min / mile pace)
+5K - 3.1 miles, Time = 20:31
+Run / jog back, plus a little extra mileage, about 2.5 miles (estimated 8:30 min / mile pace)
+Roughly total distance - 7.1 miles</session>
+<distance>11.4</distance>
+<atired>5</atired>
 </record>
 <record>
-<date></date>
-<title></title>
-<emphasis></emphasis>
-<esystem></esystem>
-<load></load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<date>3-April-2016</date>
+<title>Long run 10m</title>
+<emphasis>Endurance</emphasis>
+<esystem>Aerobic</esystem>
+<load>Medium</load>
+<done>Yes</done>
+<tired>5</tired>
+<motivation>7</motivation>
+<session>Met up with Mike M (another LRR runner), and Alan G (friend from parkrun) 8:30am to go for a longer run. Went from the common to Southampton football club, following roughly the route in reverse of the Southampton half marathon. At the beginning I had to ask the other's to slow down, as the pace was too fast for me, although after about the 4th mile I started to feel good, and at mile 6 I had to slow down for the others. The last mile or so, I took slow, running back from Southampton football club, to where I live in St. Denys, then the others went back to the common.
+
+Mile 1 - 8:21
+Mile 2 - 8:11
+Mile 3 - 7:21
+Mile 4 - 7:28
+Mile 5 - 7:25
+Mile 6 - 7:12
+Mile 7 - 7:28
+Mile 8 - 7:54
+Mile 9 - 7:25
+Mile 10 - 7:56
+Mile 11 - 8:40
+
+Distance - 10:22 miles
+Average min / mile - 7:42
+Duration - 1:22:41</session>
+<distance>16.44</distance>
+<atired>4</atired>
 </record>
 <record>
-<date></date>
-<title></title>
-<emphasis></emphasis>
-<esystem></esystem>
-<load></load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<date>4-April-2016</date>
+<title>Fartlek in the common</title>
+<emphasis>Endurance</emphasis>
+<esystem>Aerobic/Lactic</esystem>
+<load>Medium</load>
+<done>Yes</done>
+<tired>8</tired>
+<motivation>7</motivation>
+<session>ut instead did fartleg in the Common with Lordshill monday training Group F.
+Felt pretty tired before setting off, and really wanted to do a recovery run, but the training was ok - it wasn't my fastest, due to being a bit knackered, but still was good.
+
+As per usual, the times recorded are only a rough indication of speed, as waiting around as well as running was recorded, but at least the distance is accurate :
+
+Mile 1 - 9:26 (run / jog to traning)
+Mile 2 - 20:17 (includes waiting around at start)
+Mile 3 - 8:01 (warmup)
+Mile 4 - 17:40 (includes excersices in the common)
+Mile 5 - 7:26 (fartleg begins)
+Mile 6 - 7:24
+Mile 7 - 8:47
+Mile 8 - 16:02 (includes warm down excersices)
+Mile 9 - 7:51 (run / jog home)
+
+Distance - 8:81 miles
+Average min / mile - 11:31</session>
+<distance>14.16</distance>
+<atired>6</atired>
 </record>
 <record>
-<date></date>
-<title></title>
-<emphasis></emphasis>
-<esystem></esystem>
-<load></load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<date>6-April-2016</date>
+<title>Strength circuit</title>
+<emphasis>Strength</emphasis>
+<esystem>Lactic</esystem>
+<load>Medium</load>
+<done>1</done>
+<tired>5</tired>
+<motivation>7</motivation>
+<session>Did all the excersices - either 20 repetitions, or holding the position for about 1 minute.
+Squats and the one with your back against the wall, legs at 90 degrees were the hardest.
+</session>
+<distance>0.1</distance>
+<atired>9</atired>
 </record>
 <record>
-<date></date>
-<title></title>
-<emphasis></emphasis>
-<esystem></esystem>
-<load></load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<date>7-April-2016</date>
+<title>6x800</title>
+<emphasis>Endurance</emphasis>
+<esystem>Aerobic</esystem>
+<load>High</load>
+<done>Yes</done>
+<tired>5</tired>
+<motivation>8</motivation>
+<session>Felt fairly good before running. Did the first interfval too fast, whilst the last couple we're hard. As mentioned afterwards, the GPS on my phone indicated that I had finished 800m earlier than expected - roughly 50m before going round the track twice, This meant that the 2 min slow run intervals were shorter - which is probably good practise!
+
+800m 5.36
+2 min slow 7.41
+800m 5.55
+2 min slow 7.52
+800m 5.59
+2 min slow 7.32
+800m 6.05
+2 min slow 8.10
+800m 7.04
+2 min slow 8.33
+800m 6.36
+2 min slow 9.11
+
+Mile 1 - 6:13
+Mile 2 - 6:26
+Mile 3 - 6:58
+Mile 4 - 7:15
+Mile 5 - 7:55
+</session>
+<distance>8.10</distance>
+<atired>7</atired>
 </record>
 <record>
-<date></date>
-<title></title>
-<emphasis></emphasis>
-<esystem></esystem>
-<load></load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<date>9-April-2016</date>
+<title>Parkrun+hills</title>
+<emphasis>Endurance</emphasis>
+<esystem>Aerobic</esystem>
+<load>High</load>
+<done>Yes</done>
+<tired>7</tired>
+<motivation>7</motivation>
+<session>
+Then after about 20 minutes, I did Hills 2x5x80m. [2'], on the Eastleigh parkrun course - going up the main hill (which in parkrun, you normally run down)
+(didn't do the Acceleration 5x120m was was quite knackered afterwards!)
+
+Felt quite slow doing this, although the hill was quite muddy and I was trying out my new trail shoes for the first time - which definately helped!
+
+Also, the running app wasn't accurate for each repetition, as it told me to stop at different distances, so I think the times are just for an indication really.
+
+1st Set x5 :
+Distance = 1.04 miles
+Duration = 10:25 minutes
+Averge min/nile = 10.09
+ 
+Mile 1 - 9:32
+Mile 2 - 19:26 (I think I must have forgotten to stop the running app after I finished for this time!)
+
+2nd Set x5 :
+Distance = 0.96 miles
+Duration = 9:12 minutes
+Averge min/nile = 9.37
+ 
+Mile 1 - 9:21
+
+</session>
+<distance>12.00</distance>
+<atired>7</atired>
 </record>
 <record>
-<date></date>
-<title></title>
-<emphasis></emphasis>
-<esystem></esystem>
-<load></load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<date>11-April-2016</date>
+<title>Av of pain</title>
+<emphasis>Endurance</emphasis>
+<esystem>Aerobic</esystem>
+<load>Medium</load>
+<done>Yes</done>
+<tired>7</tired>
+<motivation>7</motivation>
+<session>
+Long run 12 miles @ 8 mins/mile
+
+I did this as part of LRR Monday night training, which was avenue of pain :
+
+Mile 1 - 8:19
+Mile 2 - 13:04 (including waiting at the start)
+Mile 3 - 8:07
+Mile 4 - 8:13
+Mile 5 - 8
+Mile 6 - 9:25
+Mile 7 - 8:06
+Mile 8 - 8:17
+Mile 9 - 9:41
+Mile 10 - 8:42
+Mile 11 - 9:35
+Mile 12 - 10:10 (Cool down)
+Mile 13 - 11:33
+</session>
+<distance>19.95</distance>
+<atired>6</atired>
 </record>
 <record>
-<date></date>
-<title></title>
-<emphasis></emphasis>
-<esystem></esystem>
-<load></load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<date>13-April-2016</date>
+<title>2xstrength circuit</title>
+<emphasis>Strength</emphasis>
+<esystem>Lactic</esystem>
+<load>Medium</load>
+<done>Yes</done>
+<tired>7</tired>
+<motivation>6</motivation>
+<session>
+Did all the excersices - either 20 repetitions, or holding the position for a 1 minute.
+Had a few minute break, and then repeated all the excersices
+
+Press up on the second repetition was amongst the hardest - got up to 14, then had a rest, then up to 18, had to stop and rest again, and then the last two were just as hard!
+The last part of each excersice (reps or holding the posture) on the second time around were quite hard, although after about 20 minutes felt ok again
+</session>
+<distance>0.00</distance>
+<atired>6</atired>
 </record>
 <record>
-<date></date>
-<title></title>
-<emphasis></emphasis>
-<esystem></esystem>
-<load></load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<date>14-April</date>
+<title>6x800</title>
+<emphasis>Endurance</emphasis>
+<esystem>Aerobic</esystem>
+<load>High</load>
+<done>Yes</done>
+<tired>8</tired>
+<motivation>7</motivation>
+<session>
+Intervals 6x800m Rest 2 mins slow run
+
+I did this with Tim and Alex at the track. This time I didn't set off so fast, which was better for my endurance for later in the training session. Before the session, felt tired mainly due to work, so wasn't expecting too much. Unfortunately the intervals didn't record on my running app, but I think, if I remember the 800m's were around 6:30 minutes / mile , and the 2 minutes slow were about 7:30 min / mile.
+
+Mile 1 - 6:28
+Mile 2 - 6:53
+Mile 3 - 6:45
+Mile 4 - 6:33
+Mile 5 - 7:16
+</session>
+<distance>7.12</distance>
+<atired>6</atired>
 </record>
 <record>
 <date></date>
