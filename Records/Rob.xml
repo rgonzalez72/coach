@@ -539,30 +539,68 @@ Duration - 26:20
 <wload>High</wload>
 <records>
 <record>
-<date>3-May-2016</date>
+<date>2-May-2016</date>
 <title>Tempo 3x3k [3']</title>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>8</tired>
+<motivation>6</motivation>
+<session>Did this at the common, at the start line of Park run, taking the park run course, going around the common, up the slight hill once, then back to the start again which worked out at 3K. Luckily the rain had just stopped, and it turned out to be a good session.
+
+1st 3K - 6:42 minutes / mile
+2nd 3K - 6:55 minutes / mile
+3rd 3K - 6:52 minutes / mile
+
+Distance - 5:74 miles
+Average min / mile - 7:47 (this takes into account the 3 minutes rest between each 3K, which I was just standing still, getting my breath back!)
+Duration - 44:41
+
+Motivation - 6 (a bit low because of being a bit tired)</session>
+<distance>9.23</distance>
+<atired>7</atired>
 </record>
 <record>
-<date>5-May-2016</date>
-<title>5x1k [2']</title>
+<date>4-May-2016</date>
+<title>6x1k [2']</title>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>5</tired>
+<motivation>7</motivation>
+<session>
+Warm-up 5 minutes - 7:28 min/mile
+            1km fast - 6:48
+2 minutes slow - 8:06
+            1km fast - 7:19
+2 minutes slow - 8:52
+            1km fast - 7:06
+2 minutes slow - 8:19
+            1km fast - 7:25
+2 minutes slow - 8:24
+            1km fast - 7:37
+2 minutes slow - 7:33 (this is what's shown on my phone app, but I'm guessing this time needs to be changed with the next one - I would have definately been a lot slower after a 1K fast interval!)
+            1km fast - 8:16
+2 minutes slow - 9:02
+Cool-down 5 minutes - 9:01 min/mile
+Extra - 8:53
+
+Mile 1 - 7:09
+Mile 2 - 7:23
+Mile 3 - 7:35
+Mile 4 - 7:53
+Mile 5 - 7:35
+Mile 6 - 8:36
+Mile 7 - 8:56
+Mile 8 - 8:43
+
+Distance - 7:19 miles
+Average min / mile - 7:54
+Duration - 56:46</session>
+<distance>11.57</distance>
+<atired>6</atired>
 </record>
 <record>
 <date>6-May-2016</date>
