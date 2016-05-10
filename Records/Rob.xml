@@ -608,7 +608,7 @@ Duration - 56:46</session>
 <emphasis>Strength</emphasis>
 <esystem>Lactic</esystem>
 <load>Medium</load>
-<done></done>
+<done>No</done>
 <tired></tired>
 <motivation></motivation>
 <session></session>
@@ -616,17 +616,39 @@ Duration - 56:46</session>
 <atired></atired>
 </record>
 <record>
-<date>8-May-2016</date>
+<date>7-May-2016</date>
 <title>Long run 12 miles</title>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>Medium</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>6</tired>
+<motivation>7</motivation>
+<session>Long run, 12 miles 8 minutes / mile
+
+Decided to get up early to do 9 or 10 miles, and then finish off doing Eastleigh parkrun (as you know Southampton PR was cancelled), but I didn't get up early enough and only did 7.5 miles before having to drive to Eastleigh in time for the Parkrun start! 
+
+I paused the time after finishing 7.5 miles, and then re-started it again at the start of Parkrun. 
+Eastleigh Parkrun result 49th place, time = 22:06
+
+Mile 1 - 7:57 minutes / mile
+Mile 2 - 7:58
+Mile 3 - 7:56
+Mile 4 - 7:34
+Mile 5 - 7:56
+Mile 6 - 7:52
+Mile 7 - 7:43
+Mile 8 - 7:28 (Parkrun started at about this point)
+Mile 9 - 7:00
+Mile 10 - 7:23
+Mile 11 - 7:26
+
+Distance - 10:66 miles
+Average min / mile - 7:43
+Duration - 1:22:19
+</session>
+<distance>17.1</distance>
+<atired>8</atired>
 </record>
 </records>
 </week>
