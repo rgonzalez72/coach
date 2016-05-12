@@ -670,16 +670,30 @@ Duration - 1:22:19
 </record>
 <record>
 <date>12-May-2016</date>
-<title>Recovery run 6 miles</title>
+<title>Mona Fartlek</title>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
-<load>Low</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<load>High</load>
+<done>Yes</done>
+<tired>7</tired>
+<motivation>6</motivation>
+<session>For the Monday night training, I left my running app record from the time I left, jogged to Richmonds
+college, and all the hanging around too, so the minutes / mile arn't accurate, but for interest the total
+distance is probably still ok :
+
+Monday 12th May
+
+Mile 1 : 9:03
+Mile 2 : 13:47
+Mile 3 : 8:03
+Mile 4 : 23:47
+Mile 5 :7:04
+Mile 6 : 8:58
+Mile 7 : 27:59
+Mile 8 : 9:34
+Total distance : 7.7miles</session>
+<distance>12.39</distance>
+<atired>8</atired>
 </record>
 <record>
 <date>15-May-2016</date>
