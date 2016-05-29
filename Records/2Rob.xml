@@ -19,17 +19,47 @@
 <wload>Low</wload>
 <records>
 <record>
+<date>16-May-2016</date>
+<title>Recovery run. 5 miles</title>
+<emphasis>Endurance</emphasis>
+<esystem>Aerobic</esystem>
+<load>Low</load>
+<done>Yes</done>
+<tired>7</tired>
+<motivation>8</motivation>
+<session>
+Mile 1 : 8:20
+Mile 2 : 8:29
+Mile 3 : 8:28
+Mile 4 : 8:22
+Mile 5 : 8:18
+
+Duration :34:46
+Miles : 4.11
+Average min /mile : 8:28</session>
+<distance>6.61</distance>
+<atired>7</atired>
+</record>
+<record>
 <date>18-May-2016</date>
 <title>Recovery run. 5 miles</title>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>Low</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>5</tired>
+<motivation>8</motivation>
+<session>Mile 1 : 8:16
+Mile 2 : 8:16
+Mile 3 : 8:23
+Mile 4 : 8:34
+Mile 5 : 8:23
+Mile 6 : 8:33
+Total distance : 5.98 miles
+Total time : 50:20
+Average mile / mile : 8:25</session>
+<distance>9.62</distance>
+<atired>6</atired>
 </record>
 </records>
 </week>
@@ -38,16 +68,29 @@
 <records>
 <record>
 <date>23-May-2016</date>
-<title>3x4x200</title>
+<title>2x5000</title>
 <emphasis>Endurance</emphasis>
-<esystem>Lactic</esystem>
+<esystem>Aerobic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>3</tired>
+<motivation>7</motivation>
+<session>Here's my times for Monday night training with group G. As usual, I just left my running app record every thing, including when I wasn't running:
+
+Mile 1 8:33
+Mile 2 12:02
+Mile 3 9:19
+Mile 4 6:46
+Mile 5 7:05
+Mile 6 9:44
+Mile 7 7:33
+Mile 8 7:07
+Mile 9 7:49
+Mile 10 10:35
+Mile 11 8:36
+Mile 12 9:50</session>
+<distance>18.34</distance>
+<atired>6</atired>
 </record>
 <record>
 <date>25-May-2016</date>
@@ -55,12 +98,22 @@
 <emphasis>Strength</emphasis>
 <esystem>Lactic</esystem>
 <load>Medium</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>3</tired>
+<motivation>7</motivation>
+<session>I felt like running today, so went for an easy run, and then did the physical work out afterwards. I only did the physical work out once, but did all the routines, and it felt like a good work out
+
+Again, I did the easy run, trying to control my breath - which is dependant on slowing down a bit, and trying to concentrate more on better breathing as well as form
+
+Mile 1 8:08
+Mile 2 8:36
+Mile 3 8:09
+Mile 4 8:30
+Mile 5 8:02
+Mile 6 8:07
+Mile 7 8:26</session>
+<distance>10.36</distance>
+<atired>4</atired>
 </record>
 <record>
 <date>28-May-2016</date>
@@ -68,12 +121,32 @@
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>Medium</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>3</tired>
+<motivation>6</motivation>
+<session>
+I arranged to meet Paul Hammond today at Eastleigh parkrun, to practise some more with his camera, so I decided to incorporate my run to and from Eastleigh parkrun. I took about 940 ish pictures in total, and a lot more than last time were in focus, so that's good for taking the pictures for the LRR 10K!
+
+I had a lot of side on shots and it's interesting to see the running form of everyone, taking into account of what's you've said about extending the hips...
+
+It was just over 5 miles there, then I took pictures for about 40 minutes at parkrun, then I ran back (so I had a 40 minute rest! - But I was standing around all the time)
+
+Mile 1 7:59
+Mile 2 7:31
+Mile 3 8:10
+Mile 4 8:02
+Mile 5 8:02
+Mile 6 8:10
+Mile 7 8:08
+Mile 8 8:16
+Mile 9 8:15
+Mile 10 8:17
+Mile 11 8:34
+
+Distance 10.70
+Total time 1hr 27 mins 13 seconds</session>
+<distance>17.21</distance>
+<atired>4</atired>
 </record>
 </records>
 </week>
