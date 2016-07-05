@@ -159,12 +159,34 @@ Total time 1hr 27 mins 13 seconds</session>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>4</tired>
+<motivation>5</motivation>
+<session>warm up jog to the common :
+Total miles : 1.27
+Duration : 10mins 46seconds
+Average pace : 8:31 minutes per mile
+
+Mile 1 8:30
+Mile 2 8:20
+
+Training run :
+3x3000, with a 3 minute rest between 3000m
+Distance 7:58
+Total time 58mins 27seconds
+Average min/mile 7:43 (including rests)
+
+Mile 1 6:58
+Mile 2 7:50
+Mile 3 7:33
+Mile 4 6:33
+Mile 5 8:12
+Mile 6 6:51
+Mile 7 9:08 (probably was jogging home at this point)
+Mile 8 8:58
+</session>
+<distance>14.24</distance>
+<atired>6</atired>
 </record>
 <record>
 <date>1-June-2016</date>
@@ -172,12 +194,45 @@ Total time 1hr 27 mins 13 seconds</session>
 <emphasis>Strength</emphasis>
 <esystem>Lactic</esystem>
 <load>Medium</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>3</tired>
+<motivation>8</motivation>
+<session>
+his is the first day of my run 1 mile every day before breakfast month! So when I do my run training - typically after work in the evenings, then I'll also have done a 1 mile easy run in the morning too. For the 1 mile easy run in the morning, I'm just running based on feeling, so that my breathing is easy and trying to make sure that running form is as good as I can make it. For the last 30 seconds of the run, I do strides x2, which is one stride being about a 5 second acceleration to max speed, then a 5 second slow down, a 5 second jog, then repeat.
+
+Morning easy run :
+Distance 1.22 miles
+Total time 10mins 31seconds
+Average min/mile 8:36
+
+Mile 1 8:36
+Mile 2 8:23
+
+Enthusiasm 6 (due to being a bit tired)
+Energy before 6
+Energy after 7 (was fully awake after the run)
+
+Evening run, on the same day
+Even though the training was Physical preparation, circuit x3, I felt like a run before the physical training, so I went for another easy run, just basing pace on my breathing being controlled :
+
+Distance 4:85
+Total time 40mins 58seconds
+Average min/mile 8:27
+
+Mile 1 8:12
+Mile 2 8:49
+Mile 3 8:32
+Mile 4 8:17
+Mile 5 8:16
+
+Enthusiasm 7.5
+Energy before 7
+Energy after 7
+
+After I did the physical preparation circuit X1, plus 1 extra set of squats. I was knackered after this, so decided I was in need of a rest.
+</session>
+<distance>9.42</distance>
+<atired>7</atired>
 </record>
 <record>
 <date>2-June-2016</date>
@@ -185,7 +240,7 @@ Total time 1hr 27 mins 13 seconds</session>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>High</load>
-<done></done>
+<done>No</done>
 <tired></tired>
 <motivation></motivation>
 <session></session>
@@ -198,30 +253,99 @@ Total time 1hr 27 mins 13 seconds</session>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>3</tired>
+<motivation>8</motivation>
+<session>Romsey 5miles beer race
+Distance 5 miles (although on my running app it said 5.1 miles, plus another LRR Rob Agar, also recorded 5.1 miles on his Garman watch. The runner in front of Rob also though the race was long!)
+Total time 35mins 20seconds
+Average min/mile 7:04
+Finished : 27th out of 333
+
+Mile 1 7:15
+Mile 2 6:24 (seemed to be a long down hill section!)
+Mile 3 7:05
+Mile 4 7:08
+Mile 5 7:25
+</session>
+<distance>8.05</distance>
+<atired>4</atired>
 </record>
 </records>
 </week>
 <week>
 <wload>Medium</wload>
 <records>
+<date>6-June-2016</date>
+<title>Easy run</title>
+<emphasis>Endurance</emphasis>
+<esystem>Aerobic</esystem>
+<load>Low</load>
+<done>Yes</done>
+<tired>4</tired>
+<motivation>8</motivation>
+<session>
+Morning easy run everyday before breakfast
+Distance 1:24
+Total time 10mins 49seconds
+Average min/mile 8:44
+
+Mile 1 8:43
+Mile 2 8:39
+
+Enthusiasm 8
+Energy before 6.5
+Energy after 7
+
+Second run in the evening, which again was just an easy, recovery run :
+Distance 3:13 miles
+Total time 27mins 50seconds
+Average min/mile 8:53
+
+Mile 1 8:46 (legs felt still, still recovering from the beer race on Sunday!)
+Mile 2 8:53
+Mile 3 8:54
+Mile 4 9:11
+
+Enthusiasm 8 (it was abeautiful evening!)
+Energy before 6.5
+Energy after 6.5
+</session>
+<distance>7.05</distance>
+<atired>4</atired>
+</record>
 <record>
 <date>8-June-2016</date>
 <title>Physical preparation. Circuit x 3</title>
 <emphasis>Strength</emphasis>
 <esystem>Lactic</esystem>
 <load>Medium</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>4</tired>
+<motivation>7</motivation>
+<session>
+Morning easy run everyday before breakfast
+Distance 1:24
+Total time 10mins 24seconds
+Average min/mile 8:23
+
+Mile 1 8:27
+Mile 2 7:56
+
+Enthusiasm 7 (felt like sleeping more)
+Energy before 6
+Energy after 7
+
+Evening training :
+Physical preperation Circuit x3
+I did all the excercises twice, which felt about right
+Another 20 pushups might have taken me all night to do!
+
+Enthusiasm 7
+Energy before 6
+</session>
+<distance>1.66</distance>
+<atired>3</atired>
 </record>
 <record>
 <date>9-June-2016</date>
@@ -229,12 +353,30 @@ Total time 1hr 27 mins 13 seconds</session>
 <emphasis>Endurance</emphasis>
 <esystem>Lactic/Aerobic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>4</tired>
+<motivation>7</motivation>
+<session>
+Miles 2.49
+Duration 20 minutes 22 seconds
+Average minutes per mile 8 minutes 11 seconds (including rests)
+
+
+500m fast 6:23
+1.5 minutes rest
+500m fast 6:28
+1.5 minutes rest
+500m fast 6:15
+1.5 minutes rest
+500m fast 6:28
+1.5 minutes rest
+500m fast 6:22
+1.5 minutes rest
+500m fast 6:23
+1.5 minutes rest
+</session>
+<distance>6.02</distance>
+<atired>5</atired>
 </record>
 <record>
 <date>11-June-2016</date>
@@ -242,11 +384,31 @@ Total time 1hr 27 mins 13 seconds</session>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>Medium</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
+<done>Yes</done>
+<tired>3</tired>
+<motivation>6</motivation>
+<session>
+Long easy run 12 miles (8.5 ish miles easy, then parkrun, then jog home)
+Miles 13.24
+Duration 1 hour 53 minutes 8 seconds
+Average minutes per mile 8 minutes 33 seconds
+
+Mile 1 8:23
+Mile 2 8:01
+Mile 3 8:21
+Mile 4 8:18
+Mile 5 8:33
+Mile 6 9:15
+Mile 7 9:01
+Mile 8 8:32
+Mile 9 9:41 (spent the 1st 1km of parkrun jogging - talking to Sergio)
+Mile 10 7:24
+Mile 11 7:41
+Mile 12 8:15
+Mile 13 9:22
+Mile 14 8:54
+</session>
+<distance>21.3</distance>
 <atired></atired>
 </record>
 </records>
