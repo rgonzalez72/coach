@@ -276,6 +276,7 @@ Mile 5 7:25
 <week>
 <wload>Medium</wload>
 <records>
+<record>
 <date>6-June-2016</date>
 <title>Easy run</title>
 <emphasis>Endurance</emphasis>
@@ -417,17 +418,38 @@ Mile 14 8:54
 <wload>Low</wload>
 <records>
 <record>
-<date>15-June-2016</date>
-<title>Slow run. 6 miles</title>
+<date>11-June-2016</date>
+<title>Pyramid session in the flats</title>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
-<load>Low</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<load>High</load>
+<done>Yes</done>
+<tired>4</tired>
+<motivation>7</motivation>
+<session>
+Evening run : LRR Monday training Pyramid Intervals - 1,2,3,2,1,2,3,2,1, where 1 is about 150m, 2 is about 300m, and 3 is about 400m. 30 second rest after 1, and 1 minute rest after 2 and 3. Ben the run leader said to run at about 10K pace, but it was much faster than this - as I was out of breath after each repetition.
+
+No running info as my running app started, but it didn't record anything - I either must have inadvertently pressed the stop button, or didn't start recording the run properly. Anyway, it's about 1.5 miles there and back, plus I'm guessing about 5 or 6 miles running during training, so total milage was probably about 8 miles.</session>
+<distance>12.2</distance>
+<atired>5</atired>
+</record>
+<record>
+<date>15-June-2016</date>
+<title>Mile of miles</title>
+<emphasis>Endurance</emphasis>
+<esystem>Aerobic/Lactic</esystem>
+<load>High</load>
+<done>Yes</done>
+<tired>4</tired>
+<motivation>8</motivation>
+<session>
+4 times around the track = 1600m = 1 metric mile
+Time = 6 minutes 6 seconds
+
+The 1st lap felt really easy, even though I think was was running "fairly" fast, the 2nd, 3rd and 4th were a little harder, and then I sprinted all out for the last 100m. It seemed just a minute or so had elapsed from when I started to when I finished - it was over so quick! Also it seemed that I could have worked harder, as running just a  mile didn't take alot out of me, compaired to longer distances of 5K or 10K etc, which when racing usually make me feel tired afterwards.
+</session>
+<distance>4.0</distance>
+<atired>6</atired>
 </record>
 <record>
 <date>18-June-2016</date>
@@ -435,12 +457,16 @@ Mile 14 8:54
 <emphasis>Competition</emphasis>
 <esystem>Aerobic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>4</tired>
+<motivation>7</motivation>
+<session>
+Parkrun
+Total Distance approx 6 miles (1.5 miles warmup / jog to start + 3.1 miles race + 1.5 warm down / jog home)
+Total time (for parkrun only) 20:18 (49th Place)
+Average min/mile 6:32</session>
+<distance>9.8</distance>
+<atired>6</atired>
 </record>
 </records>
 </week>
@@ -448,17 +474,25 @@ Mile 14 8:54
 <wload>Medium</wload>
 <records>
 <record>
-<date>20-June-2016</date>
+<date>22-June-2016</date>
 <title>Tempo 20mins.</title>
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>6</tired>
+<motivation>8</motivation>
+<session>
+I ran for 20 minutes at tempo pace, and then went a few minutes further to make it 3 miles, and then after 3 miles, did the remaining distance at easy pace - no rest between tempo pace and easy pace
+Mile 1 7:19
+Mile 2 7:23
+Mile 3 7:07
+Mile 4 8:43
+Mile 5 8:49
+
+Enthusiasm 8 (I intended to do a few miles at easy pace, but mistimed it, and as the first mile was at the goal tempo pace, just carried on. 1st mile felt easy, whilst the 2nd mile was the hardest but not eally tough)</session>
+<distance>7.83</distance>
+<atired>7</atired>
 </record>
 <record>
 <date>23-June-2016</date>
@@ -466,12 +500,25 @@ Mile 14 8:54
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>6</tired>
+<motivation>7</motivation>
+<session>
+Evening run : Repetitions 6 x 500 with a 90 second rest between each one
+Distance 1:97
+Total time 17 mins 21 seconds
+Average min/mile 8:49
+
+Mile 1 9:46
+Mile 2 7:39
+
+I didn't record the time for each 500m, or time the rest, but estimating :
+Option 1) If I took a 1 minute rest (5 mins total), total running time = 12 mins 21 seconds to cover 1.97 miles = 6 minutes 16 seconds / mile
+Option 2) If I took a 90 second rest (7.5 mins total), total running time = 9 mins 51 seconds to cover 1.97 miles = 5 minutes / mile
+
+I think Option 1 ) is very much more likely!</session>
+<distance>6.2</distance>
+<atired>8</atired>
 </record>
 <record>
 <date>25-June-2016</date>
@@ -479,12 +526,33 @@ Mile 14 8:54
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>Medium</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>7</tired>
+<motivation>4</motivation>
+<session>
+Long run 60' 40' easy 20' a bit more demanding
+Distance 10:53
+Total time 1 hour 34 mins 43 seconds
+Average min/mile 9:00
+
+Mile 1 8:46
+Mile 2 8:41
+Mile 3 8:51
+Mile 4 9:09
+Mile 5 8:58
+Mile 6 9:45
+Mile 7 9:28
+Mile 8 8:47
+Mile 9 8:43
+Mile 10 8:53
+Mile 11 8:48
+
+I originally thought this run was 60 minutes, then 40 minutes, then 20 minutes slightly faster, but just reading it now it's obviously a 60 minute run, 1st 40 minutes easy, last 20 minutes slightly faster!
+
+Enthusiasm 3.5 (had a late night at a friends the night before, and didn't have much sleep so the 1st 5 miles felt really hard, but got into my stride and felt better after this)
+</session>
+<distance>16.8</distance>
+<atired>8</atired>
 </record>
 </records>
 </week>
@@ -497,12 +565,29 @@ Mile 14 8:54
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>High</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>7</tired>
+<motivation>7</motivation>
+<session>
+Evening run : Tempo run 30 minutes
+Total Distance 3:64
+Total time 26mins 10 seconds
+Average min/mile 7:11
+
+Mile 1 7:06
+Mile 2 7:15
+Mile 3 7:09
+Mile 4 7:10
+
+Felt the level of effort was constant from beginning to end, which was good, as usually it feels a bit harder towards the end.
+
+After tempo run - cool down :
+Total Distance 1:23
+Total time 9 mins 57 seconds
+Average min/mile 8:07
+</session>
+<distance>9.2</distance>
+<atired>7</atired>
 </record>
 <record>
 <date>29-June-2016</date>
@@ -510,12 +595,40 @@ Mile 14 8:54
 <emphasis>Endurance</emphasis>
 <esystem>Aerobic</esystem>
 <load>Medium</load>
-<done></done>
-<tired></tired>
-<motivation></motivation>
-<session></session>
-<distance></distance>
-<atired></atired>
+<done>Yes</done>
+<tired>7</tired>
+<motivation>8</motivation>
+<session>
+Evening run : Fartlek, 3 minutes slow, 1 minute fast x10 (30 minutes in total)
+Total Distance 6:06
+Total time 50mins 10 seconds
+Average min/mile 8:17
+
+Warm up (5 minutes) 8:16
+1 minute fast 5:56
+3 minute slow 2 8:22
+1 minute fast 5:37
+3 minute slow 2 8:03
+1 minute fast 6:09
+3 minute slow 2 9:30
+1 minute fast 6:59 (going up hill)
+3 minute slow 2 8:20
+1 minute fast 5:46
+3 minute slow 2 9:05
+1 minute fast 6:04
+3 minute slow 2 9:08
+1 minute fast 8:19
+3 minute slow 2 8:23
+1 minute fast 6:05
+3 minute slow 2 9:46
+1 minute fast 5:41
+3 minute slow 2 9:43
+1 minute fast 6:11
+3 minute slow 2 11:36
+Cool down (5 minutes) 9:26
+</session>
+<distance>10.2</distance>
+<atired>7</atired>
 </record>
 <record>
 <date>30-June-2016</date>
